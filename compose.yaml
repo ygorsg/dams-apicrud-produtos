@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: 'postgres:latest'
+    environment:
+      - 'POSTGRES_DB=apicrud'
+      - 'POSTGRES_PASSWORD=ptbdams'
+      - 'POSTGRES_USER=ptbdams'
+    ports:
+      - '5432:5432'
+    volumes:
+      - 'apicrud_pg_data:/var/lib/postgresql/data'
+
+volumes:
+  apicrud_pg_data:
+    driver: local
