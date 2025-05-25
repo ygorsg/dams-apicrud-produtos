@@ -10,7 +10,28 @@
 
 ## Diagrama de Classes Simples
 
+![diagrama_classes.png](src/main/resources/static/images/diagrama_classes.png)
+
 ## Prints do Swagger
+
+### Categorias
+
+![categorias_get.png](src/main/resources/static/images/categorias_get.png)
+![categorias_post.png](src/main/resources/static/images/categorias_post.png)
+![categorias_put.png](src/main/resources/static/images/categorias_put.png)
+![categorias_delete.png](src/main/resources/static/images/categorias_delete.png)
+![categorias_get_id.png](src/main/resources/static/images/categorias_get_id.png)
+![categorias_get_produtos.png](src/main/resources/static/images/categorias_get_produtos.png)
+
+### Produtos
+
+![produtos_get.png](src/main/resources/static/images/produtos_get.png)
+![produtos_post.png](src/main/resources/static/images/produtos_post.png)
+![produtos_put.png](src/main/resources/static/images/produtos_put.png)
+![produtos_delete.png](src/main/resources/static/images/produtos_delete.png)
+![produtos_get_id.png](src/main/resources/static/images/produtos_get_id.png)
+![produtos_get_buscar.png](src/main/resources/static/images/produtos_get_buscar.png)
+![produtos_get_desconto.png](src/main/resources/static/images/produtos_get_desconto.png)
 
 ## Regras de Negócio Implementadas
 
@@ -23,5 +44,3 @@
 - Não permitir descontos maiores que 50%.
 - Não permitir salvar produto sem categoria.
 - A categoria deve ser escolhida por ID no momento do cadastro ou atualização do produto.
-
-## Exemplos de uso da API
