@@ -18,7 +18,6 @@
 
 ![categorias_get.png](src/main/resources/static/images/categorias_get.png)
 ![categorias_post.png](src/main/resources/static/images/categorias_post.png)
-![categorias_put.png](src/main/resources/static/images/categorias_put.png)
 ![categorias_delete.png](src/main/resources/static/images/categorias_delete.png)
 ![categorias_get_id.png](src/main/resources/static/images/categorias_get_id.png)
 ![categorias_get_produtos.png](src/main/resources/static/images/categorias_get_produtos.png)
